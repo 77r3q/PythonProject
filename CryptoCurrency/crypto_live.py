@@ -46,3 +46,5 @@ liste.insert(8, "HedgeTrade [id: hedgetrade]")
 liste.pack()
 
 root.mainloop()
+
+#Made By 77_r3q
