@@ -10,5 +10,7 @@ Share if you like it!***
 
 ***How to use this tool?***
 
-```pip install -r requirements.txt```
+```sudo apt-get install python-tk && pip install -r requirements.txt```
 **:D**
+
+<img src="https://github.com/77r3q/PythonProject/blob/master/TranslatingAPP/IMG/install.png" width="600">
