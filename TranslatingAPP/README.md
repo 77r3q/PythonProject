@@ -6,3 +6,9 @@ Share if you like it!***
 ***View:***
 
 <img src="https://github.com/77r3q/PythonProject/blob/master/TranslatingAPP/IMG/img_translate.png" width="560">
+
+
+***How to use this tool?***
+
+```pip install -r requirements.txt```
+**:D**
