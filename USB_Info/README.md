@@ -13,6 +13,6 @@ today I present you a small application to display the information about USB bus
 
 <img src="https://sylviamoessinger.files.wordpress.com/2013/01/fotolia_10056459_xs.jpg" width="300">
 
-```root@bash:~# chmod +x install.sh && ./install.sh | python usb_info.py```
+```root@bash:~# apt-get install git && git clone https://github.com/pyr3q/PythonProject/USB_Info" | chmod +x install.sh && ./install.sh | python usb_info.py```
 
 *See you soon ! =D*
