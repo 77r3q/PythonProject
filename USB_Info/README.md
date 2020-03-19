@@ -3,6 +3,7 @@
 
 **What is it ?**
 
+<img src="https://github.com/pyr3q/PythonProject/blob/master/USB_Info/IMG/image1.png" width="400">
 ***Hi everyone,***
 
 ***today I present you a small application to display the information about USB buses and the devices connected
