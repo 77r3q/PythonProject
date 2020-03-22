@@ -1,9 +1,9 @@
-# CryptoGraphy Tool 
+# 📟 CryptoGraphy Tool 
 
 ***hello everyone, today I present two new tools in the encryption / hashing category. these tools are used to encode a message, a password with different methods.***
 
 <img src="https://github.com/pyr3q/PythonProject/blob/master/CryptoAPP/IMG/image1.png" width="200"> <img src="https://github.com/pyr3q/PythonProject/blob/master/CryptoAPP/IMG/image2.png" width="300">
-# Encoding By MD5 Method
+# 🔑 Encoding By MD5 Method
 
 ***what is MD5?***
 
@@ -20,7 +20,7 @@ They can be obtained with the formula*** ```floor (abs (sin (i + 1)) × 2 ^ 32)`
 
 <img src="https://github.com/pyr3q/PythonProject/blob/master/CryptoAPP/IMG/image6.png" width="300">
 
-**PseudoCode**
+**🔎 PseudoCode**
 
 ***MD5 can be written in this form in pseudo-code:***
 ```//Note : All variables are 32-bit
@@ -91,7 +91,7 @@ var entier footprint := h0 concatenate h1 concatenate h2 concatenate h3 //(in li
 ```
 
 
-# Encoding By SHA-256 [ SHA-2 ] Method
+# 🔑 Encoding By SHA-256 [ SHA-2 ] Method
 
 ***SHA-2 (Secure Hash Algorithm) is a family of hash functions which were designed by the <a href="https://nsa.gov/">National Security Agency of the United States (NSA)</a>, on the model of the functions SHA-1 and SHA-0, themselves strongly inspired from the MD4 function of Ron Rivest (who also gave MD5). As described by the National Institute of Standards and Technology (NIST), it includes the functions, SHA-256 and SHA-512 whose algorithms are similar but operate on different word sizes (32 bits for SHA-256 and 64 bits for SHA-512), SHA-224 and SHA-384 which are essentially versions of the previous ones whose output is truncated, and more recently SHA-512/256 and SHA-512/224 which are truncated versions of SHA-512. The last suffix indicates the number of hashed bits.***
 
@@ -100,7 +100,7 @@ var entier footprint := h0 concatenate h1 concatenate h2 concatenate h3 //(in li
 ***Like all the hash functions, the SHA-2 functions take as input an arbitrarily sized message, with a (all theoretical) bound for it, and produce a result (called "hash", hash, condensate or even imprint ...) fixed size. The size of the hash is indicated by the suffix: 224 bits for SHA-224, 256 bits for SHA-256, 384 bits for SHA-384 and 512 bits for SHA-512.
 The SHA-2 algorithms are very similar, there are essentially two different functions, SHA-256 and SHA-512, the others being variants of either. The SHA-256 and SHA-512 functions have the same structure but differ in the size of the words and blocks used.***
 
-# Function
+# 📚 Function
 ***This section describes the functions used when calculating hash values. SHA-256 uses 6 logic functions working on 32-bit words denoted x, y, z. The result of each of these functions is a new 32-bit word as output.***
 
 <img src="https://github.com/pyr3q/PythonProject/blob/master/CryptoAPP/IMG/image7.png" width="400">
