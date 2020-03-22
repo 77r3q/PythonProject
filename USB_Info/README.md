@@ -1,4 +1,4 @@
-# USB_INFO
+# 🔌 USB_INFO
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/USB_icon.svg" width="200">
 
 **What is it ?**
@@ -9,7 +9,7 @@
 today I present you a small application to display the information about USB buses and the devices connected
 (write in Python with Tkinter module)***
 
-# How To Install ?
+# ⚙️ How To Install ?
 
 <img src="https://sylviamoessinger.files.wordpress.com/2013/01/fotolia_10056459_xs.jpg" width="300">
 
