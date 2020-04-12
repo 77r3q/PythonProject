@@ -1,7 +1,6 @@
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"> SecurePy - Networking / Web Tool [ IT ]
 
 <img src="https://github.com/pyr3q/PythonProject/blob/master/SecurePY/IMG/image1.png" width="400">
-**(installation image)**
 
 # <img src="https://www.icone-png.com/png/54/53892.png" width="80">***What Is That?***
 
