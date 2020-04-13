@@ -37,7 +37,18 @@ git clone https://github.com/Und3rf10w/kali-anonsurf
 cd kali-anonsurf
 chmod +x installer.sh
 ./installer.sh
-figlet -f slant Install Done.
+echo ""
+echo ""
+echo "▓█████▄  ▒█████   ███▄    █ ▓█████" 
+echo "▒██▀ ██▌▒██▒  ██▒ ██ ▀█   █ ▓█   ▀"
+echo "░██   █▌▒██░  ██▒▓██  ▀█ ██▒▒███"   
+echo "░▓█▄   ▌▒██   ██░▓██▒  ▐▌██▒▒▓█  ▄" 
+echo "░▒████▓ ░ ████▓▒░▒██░   ▓██░░▒████▒"
+echo "▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒░   ▒ ▒ ░░ ▒░ ░"
+echo " ░ ▒  ▒   ░ ▒ ▒░ ░ ░░   ░ ▒░ ░ ░  ░"
+echo " ░ ░  ░ ░ ░ ░ ▒     ░   ░ ░    ░   "
+echo "   ░        ░ ░           ░    ░  ░"
+echo ""
 echo ""
 echo "[ * ]  -=  Install Done, Press a Enter to exit.  =-  [ * ]"
 read touch
