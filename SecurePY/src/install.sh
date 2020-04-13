@@ -1,8 +1,13 @@
 #!/bin/bash
 clear
-apt-get install figlet
-clear
-figlet -f slant SecurePy
+echo ""
+echo ""
+echo "███████╗███████╗ ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗   ██╗"
+echo "██╔════╝██╔════╝██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗╚██╗ ██╔╝"
+echo "███████╗█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝ ╚████╔╝ "
+echo "╚════██║██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  ██╔═══╝   ╚██╔╝ " 
+echo "███████║███████╗╚██████╗╚██████╔╝██║  ██║███████╗██║        ██║ "  
+echo "╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝        ╚═╝ "
 sleep 1
 echo ""
 echo "Press Enter to continue"
@@ -24,7 +29,7 @@ sleep 1
 n=20
 for x in `seq $n`
 do
-    for i in `seq $x`; do echo -n "#"; done
+    for i in `seq $x`; do echo -n "#.."; done
     echo -en "\r"
     sleep 0.3
 done
