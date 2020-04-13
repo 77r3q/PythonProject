@@ -36,6 +36,7 @@ done
 echo ""
 sleep 3
 
+apt-get install python-tk
 apt-get install git
 apt-get install proxychains
 git clone https://github.com/Und3rf10w/kali-anonsurf
